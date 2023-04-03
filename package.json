@@ -1,0 +1,19 @@
+{
+  "name": "warn",
+  "version": "1.0.0",
+  "description": "Pulls WARN notices and emails a user based on their preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcrow2/WARN.git"
+  },
+  "author": "Cam Crow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmcrow2/WARN/issues"
+  },
+  "homepage": "https://github.com/cmcrow2/WARN#readme"
+}
